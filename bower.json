@@ -1,0 +1,7 @@
+{
+  "name": "poly-badge#gh-pages",
+  "private": true,
+  "dependencies": {
+    "poly-badge": "LM450N/poly-badge#master"
+  }
+}
